@@ -20,7 +20,7 @@
         }
     },
     "ETH-USDT": {
-        "asset_guid": "0x3b00ef435fa4fcff5c209a37d1f3dcff37c705ad",
+        "asset_guid": "0xD92E713d051C37EbB2561803a3b5FBAbc4962431",
         "asset_publicvalue": "USDT",
         "isOwner": false,
         "owner_address": "",
