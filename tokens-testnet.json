@@ -19,12 +19,12 @@
             ]
         }
     },
-    "ETH-USDT": {
+    "ETH-TUSDT": {
         "asset_guid": "0xD92E713d051C37EbB2561803a3b5FBAbc4962431",
-        "asset_publicvalue": "USDT",
+        "asset_publicvalue": "TUSDT",
         "isOwner": false,
         "owner_address": "",
-        "symbol": "USDT",
+        "symbol": "TUSDT",
         "name": "USDT Coin",
         "url": "https://tether.to/",
         "logo": "assets/icons/assets/usdt-icon.svg",
